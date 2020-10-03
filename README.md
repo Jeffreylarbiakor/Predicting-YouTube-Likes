@@ -5,3 +5,5 @@ As YouTube becomes one of the most popular video-sharing platforms, YouTuber is 
 
 You have been provided details on videos along with some features as well. Can you accurately predict the number of likes for each video using the set of input variables?
 
+## Hypothesis Generation
+Simply put, a hypothesis is a possible view or assertion of an analyst about the problem he or she is working upon. It may be true or may not be true.
