@@ -11,6 +11,14 @@ You have been provided details on videos along with some features as well. Can y
 
 ## Hypothesis Generation
 Simply put, a hypothesis is a possible view or assertion of an analyst about the problem he or she is working upon. It may be true or may not be true.
+* **Do videos with more views get more likes** ?
+* **Do videos with more comments get more likes ?**
+* **Do with videos with more dislikes get less likes ?**
+* **Do longer videos get more likes than shorter videos ?**
+* **Do descriptive videos get more number of likes ?**
+* **Does a channel affect the number of likes?**
+* **Does the country of origin affect the number of likes ?**
+* **Do people post more videos on weekends than weekdays ?**
 
 ### Data Description
 **Train Set** 
@@ -29,4 +37,7 @@ publish_date	| Date |	The date video was published |
 | description |	Text	| Textual description of the Video |
 | country_code |	Category	| Country from which the Video was published |
 | likes	| Target	| (Target) Number of Likes on the video |
+
+
+**Test Set**
 
