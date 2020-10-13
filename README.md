@@ -41,3 +41,16 @@ publish_date	| Date |	The date video was published |
 
 **Test Set**
 
+|Variable	| Variable Type |	Variable Description |
+|---------|---------------|----------------------|
+|video_id |	ID	| Identifier for each video |
+|title	| Text	| Name of the Video on Youtube |
+|channel_title |	Text/Category	Name of the Channel on Youtube |
+|category_id	| Category	Category of the Video |
+|publish_date |	Date	The date video was published |
+|tags	| Text	Different tags for the video |
+|views	| Numerical	Number of views received by the Video |
+|dislikes	| Numerical	Number of dislikes on the Video |
+|comment_count |	Numerical	Number on comments on the Video |
+|description |	Text	Textual description of the Video |
+|country_code |	Category	Country from which the Video was published |
