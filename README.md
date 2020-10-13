@@ -20,6 +20,7 @@ Simply put, a hypothesis is a possible view or assertion of an analyst about the
 * **Does the country of origin affect the number of likes ?**
 * **Do people post more videos on weekends than weekdays ?**
 
+---
 ### Data Description
 **Train Set** 
 
