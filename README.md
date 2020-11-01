@@ -23,7 +23,7 @@ Simply put, a hypothesis is a possible view or assertion of an analyst about the
 ---
 ### Data Description
 **Train Set** 
- 
+
 |Variable |Variable Type |Variable Description |
 | -------- | ------------- | -------------------- |
 | video_id |	ID           	| Identifier for each video |
